@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.start_container{
+    position: relative;
+
+}
+.h1_title{
+    margin-top:0%;
+    margin-left: 25%;
+    font-size: 90px;
+    font-family: "Comforter";
+
+}
+.start_img{
+    margin-top: -40%;
+    margin-left: 37%;
+}
+
+
+.receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title{
+    display: flex;
+    justify-content:center;
+    font-family: "Chiron GoRound TC";
+    font-size: 100px;
+
+}
+.receiving_hydration-of-alkenes-3, .receiving_hydrolysis-of-alkyl-halides-3, .receiving_reduction-of-aldehydes-and-ketones-3-1, .receiving_reduction-of-aldehydes-and-ketones-3-2{
+    opacity: 0;
+}
+.receiving{
+    margin-top: 52px;
+}
+.header{
+    height: 100px;
+    /* background-color: rgba(255, 229, 174, 0.774); */
+    background-color:rgb(247, 149, 250) ;
+}
+.i1, .span1{
+    color: rgb(125, 38, 128);
+}
+.receiving_container{
+    margin-inline: 20px;
+}
+.receiving_hydration-of-alkenes-1-1{
+    opacity: 0;
+}
+/* .receiving_hydration-of-alkenes-img{ 
+    display: flex;
+    justify-content:r;
+}*/
+
