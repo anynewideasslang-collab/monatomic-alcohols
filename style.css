@@ -24,6 +24,9 @@
     justify-content:center;
     font-family: "Chiron GoRound TC";
     font-size: 100px;
+    left: 50%;
+    top:50%;
+
 
 }
 .receiving_hydration-of-alkenes-3, .receiving_hydrolysis-of-alkyl-halides-3, .receiving_reduction-of-aldehydes-and-ketones-3-1, .receiving_reduction-of-aldehydes-and-ketones-3-2{
@@ -50,7 +53,7 @@
     display: flex;
     justify-content:r;
 }*/
-@media (max-width:540px){
+/* @media (max-width:540px){ 
     .receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya{
     display: flex;
     justify-content:center;
@@ -61,7 +64,7 @@
     left: 50%;
 
 }
-}
+}*/
 body{
     position: relative;
 }
