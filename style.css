@@ -36,9 +36,10 @@
     margin-top: 52px;
 }
 .header{
-    height: 100px;
+    height: auto;
     /* background-color: rgba(255, 229, 174, 0.774); */
-    background-color:rgb(247, 149, 250) ;
+    
+
 }
 .i1, .span1{
     color: rgb(125, 38, 128);
@@ -121,6 +122,37 @@
 }
 body{
     position: relative;
+}
+
+.header_list{
+         display: flex; 
+    justify-content: space-around;
+    
+    
+    align-items: center;
+
+    border-radius: left 100px;
+}
+ul{
+    list-style: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.header_list-link{
+    color: black;
+    font-size: 28px;
+    font-family:"Chiron GoRound TC" ;
+
+
+    
+}
+.header_list-link:hover{
+    color: blueviolet;
+}
+a{
+    text-decoration: none;
 }
 
 
