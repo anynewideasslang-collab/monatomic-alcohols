@@ -54,8 +54,69 @@
     justify-content:r;
 }*/
  @media (max-width:1700px){ 
-    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
     {transform:scale(0.55);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+
+    }
+     .receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif{ 
+            font-size: 30px;
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+
+}
+ @media (max-width:800px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
+    {transform:scale(0.40);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    
+
+    }
+    .receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif{
+            font-size: 30px;
+                display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+
+    
+}
+ @media (max-width:300px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
+    {transform:scale(0.35);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+
+    }
+    .receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif{
+            font-size: 20px;
+                display: flex;
+            justify-content: center;
+            text-align: center;
+
+    }
+
+}
+@media (max-width:250px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
+    {transform:scale(0.25);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+
+    }
+    .receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif{
+            font-size: 10px;
+                display: flex;
+            justify-content: center;
+            text-align: center;
     }
 }
 body{
