@@ -54,7 +54,8 @@
     justify-content:r;
 }*/
  @media (max-width:1700px){ 
-    img{transform:scale(0.45);
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh
+    {transform:scale(0.45);
     }
 }
 body{
