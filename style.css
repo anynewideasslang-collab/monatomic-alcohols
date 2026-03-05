@@ -19,7 +19,7 @@
 }
 
 
-.receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif{
+.receiving_hydration-of-alkenes, .receiving_hydrolysis-of-alkyl-halides, .receiving_reduction-of-aldehydes-and-ketones-1, .receiving_reduction-of-aldehydes-and-ketones-2, .receiving_title, .chemical-properties_title, .chemical-properties_intramolecular-dehydration, .chemical-properties_intermolecular-dehydration, .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif, .oxydation{
     display: flex;
     justify-content:center;
     font-family: "Chiron GoRound TC";
@@ -55,7 +55,7 @@
     justify-content:r;
 }*/
  @media (max-width:1700px){ 
-    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
     {transform:scale(0.55);
             display: flex;
             justify-content: center;
@@ -70,9 +70,9 @@
     }
 
 }
- @media (max-width:800px){ 
-    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
-    {transform:scale(0.40);
+ @media (max-width:850px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.4);
             display: flex;
             justify-content: center;
             text-align: center;
@@ -89,7 +89,7 @@
     
 }
  @media (max-width:300px){ 
-    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
     {transform:scale(0.35);
             display: flex;
             justify-content: center;
@@ -103,10 +103,11 @@
             text-align: center;
 
     }
+    
 
 }
 @media (max-width:250px){ 
-    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
     {transform:scale(0.25);
             display: flex;
             justify-content: center;
@@ -120,6 +121,81 @@
             text-align: center;
     }
 }
+
+@media (max-width:630px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.35);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:550px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.3);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:500px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.29);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:450px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.26);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:416px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.23);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:416px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.23);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:360px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.18);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:280px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.15);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+@media (max-width:240px){ 
+    .obrazovanie-alkagolyatov, .vnutremolekularnaya-degidratatsiya, .mezh, .eterif,.receiving_hydration-of-alkenes-img, .header_container
+    {transform:scale(0.1);
+            display: flex;
+            justify-content: center;
+            text-align: center;
+    }
+}
+
+
 body{
     position: relative;
 }
@@ -154,5 +230,6 @@ ul{
 a{
     text-decoration: none;
 }
+
 
 
